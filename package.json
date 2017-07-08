@@ -1,0 +1,34 @@
+{
+  "name": "truecrimerabbit",
+  "version": "1.0.0",
+  "description": "True Crime Story Fetcher",
+  "main": "/src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "true",
+    "crime",
+    "murder",
+    "unsolved",
+    "mystery"
+  ],
+  "author": "Stephen Boynton",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-polyfill": "^6.23.0",
+    "jquery": "^3.2.1",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.5",
+    "redux-middleware": "^0.1.21"
+  },
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^3.0.0"
+  }
+}

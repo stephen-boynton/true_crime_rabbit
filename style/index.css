@@ -1,0 +1,39 @@
+body {
+  text-align: center;
+  background-color: #db4d52;
+}
+
+.main-section {
+  display: flex;
+}
+
+#title {
+  color: white;
+  margin: 25px;
+}
+
+button {
+  padding: 5px;
+  background-color: #f1f1f1;
+}
+
+.search-bar input {
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+.crime-list {
+  padding: 10px;
+  margin: 5px;
+  max-width: 250px;
+  text-align: left;
+}
+
+.crime-details {
+  padding: 5px;
+  text-align: left;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.62);
+  width: 70vw;
+  margin-top: 5px;
+}
